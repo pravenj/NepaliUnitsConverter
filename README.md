@@ -21,11 +21,11 @@ The scripts to use the formulas :
 
 ###Usage :
 One can either edit the nepaliUnitConverter.py file, make necessary changes to the following code at the bottom of the file:
-localUnit = "MuriMato"
-metricUnit = "Hectares"
-valueToBeConverted = 1
-fromTo = "Metric To Local" #can be Metric to Local, Local to Metric
-currentUnits = "area" #can be Area, Weight or Volume
+	localUnit = "MuriMato"
+	metricUnit = "Hectares"
+	valueToBeConverted = 1
+	fromTo = "Metric To Local" #can be Metric to Local, Local to Metric
+	currentUnits = "area" #can be Area, Weight or Volume
 and run the script
 
 or 
